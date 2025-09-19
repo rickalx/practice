@@ -1,2 +1,2 @@
-hello git
+conflict here
 new feature
